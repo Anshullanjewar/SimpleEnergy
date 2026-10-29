@@ -3,6 +3,9 @@
 An Android-based **Human-Machine Interface (HMI)** application built for Vehicle dashboards using modern Android development practices, **Jetpack Compose**, **Kotlin Coroutines & Flow**, and **MVVM Architecture**.
 
 ---
+<img width="2856" height="1280" alt="Screenshot_20261029_183453" src="https://github.com/user-attachments/assets/370a839a-f9f2-476d-96ec-c81e6e6a02d6" />
+<img width="2856" height="1280" alt="Screenshot_20261029_183516" src="https://github.com/user-attachments/assets/4e30df1c-28f6-44fb-90aa-d3798a93600c" />
+---
 
 ## 🚀 Features
 
