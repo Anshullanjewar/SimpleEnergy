@@ -79,3 +79,12 @@ To build and run the application, follow these steps:
 - Confirm that the dashboard displays the simulated scenarios.
 
 ---
+
+## Assumptions and Limitations
+
+- Vehicle readings are simulated; no physical vehicle or hardware connection is used.
+- The five required scenarios cycle repeatedly for demonstration.
+- The stale-data timeout is configured to three seconds.
+- This is a demonstration dashboard and is not intended for production vehicle control or safety-critical use.
+
+---
